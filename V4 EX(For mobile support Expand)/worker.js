@@ -1,5 +1,5 @@
 // worker.js
-// Main entry point for the Cloudflare Worker.
+// Main entry point for the Cloudflare Worker
 
 import { handleRequest } from './request-handler.js';
 
